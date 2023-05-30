@@ -1,0 +1,20 @@
+body{background-color: rgb(151, 15, 15);
+
+}
+h1{border-bottom: 4px solid black;
+    border-top: 4px solid black;
+    text-shadow: 3px 4px 4px ;
+    padding: 7px;
+    color:white       }
+ p{color: darkorange;
+    }
+h2{ color: yellow;
+    }
+    .centrirano{
+      text-align: center;
+      font-weight: bolder;
+    }
+.centar{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;}
